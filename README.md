@@ -27,7 +27,7 @@
 To get a local copy up and running on your machine, follow these simple steps.
 Enter this in your terminal 👇 
 ``` 
-  git clone git@github.com:Qoosim/meal-reviews-refactor-react.git
+  git clone https://github.com/Qoosim/image-slider-react.git 
 ``` 
 ## 🛠️ Prerequisites
 ```
