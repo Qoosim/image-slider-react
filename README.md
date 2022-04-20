@@ -20,7 +20,7 @@
 - ReactJS
 
 ## 🖥️ Live Demo
-- [Netlify](https://qoosim-image-slider.netlify.app/) :point_left:
+- [Netlify](https://qoosim-image-slider-react.netlify.app/) :point_left:
 
 ## Getting Started
 
